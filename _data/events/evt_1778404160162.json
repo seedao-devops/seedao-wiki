@@ -1,0 +1,37 @@
+{
+  "type": "activity",
+  "initiator": "jack_0x137",
+  "co_creators": [
+    "shawn",
+    "唐晗",
+    "白鱼"
+  ],
+  "participants": [],
+  "metadata": {
+    "title": "SeeDAO万字专访：11个月4次低谷，一个DAO如何从停滞中重生？",
+    "description": "BlockBeats 对 DAO 领域资深参与者、SeeDAO 战略孵化器负责人 Shawn 进行的深度专访，回顾 SeeDAO 11个月发展历程、治理变革与元规则诞生。",
+    "source_url": "https://mp.weixin.qq.com/s/0xgW3LRCm0XSZcg-jwyPbQ",
+    "published_by": "BlockBeats / The SeeDAO",
+    "tags": [
+      "万字专访",
+      "治理",
+      "元规则",
+      "战略孵化器",
+      "历史回顾"
+    ]
+  },
+  "artifacts": [
+    {
+      "type": "article",
+      "title": "SeeDAO万字专访：11个月4次低谷，一个DAO如何从停滞中重生？",
+      "url": "https://mp.weixin.qq.com/s/0xgW3LRCm0XSZcg-jwyPbQ",
+      "format": "wechat_article"
+    }
+  ],
+  "external": {
+    "platform": "wechat",
+    "original_url": "https://mp.weixin.qq.com/s/0xgW3LRCm0XSZcg-jwyPbQ"
+  },
+  "id": "evt_1778404160162",
+  "timestamp": 1778404160
+}

@@ -1,0 +1,38 @@
+{
+  "type": "activity",
+  "initiator": "ddd",
+  "co_creators": [
+    "rebecca",
+    "slothrun",
+    "王汉洋",
+    "vera"
+  ],
+  "participants": [],
+  "metadata": {
+    "title": "人物志 · 第二期 | Rebecca：建一座没有围墙的 Web3 大学",
+    "description": "SeeDAO 人物志是由 SeeDAO 宣传公会出品的挖掘报道 SeeDAO 成员的专属栏目。本期采访了 SeeDAO 投研公会的联合发起人、Web3 大学的发起人之一 Rebecca。",
+    "source_url": "https://mp.weixin.qq.com/s/4AJq2z_CBSE74LzGBXtqAA",
+    "published_by": "宣传公会 DDD",
+    "tags": [
+      "人物志",
+      "专访",
+      "Web3大学",
+      "投研公会",
+      "教育"
+    ]
+  },
+  "artifacts": [
+    {
+      "type": "article",
+      "title": "人物志 · 第二期 | Rebecca：建一座没有围墙的 Web3 大学",
+      "url": "https://mp.weixin.qq.com/s/4AJq2z_CBSE74LzGBXtqAA",
+      "format": "wechat_article"
+    }
+  ],
+  "external": {
+    "platform": "wechat",
+    "original_url": "https://mp.weixin.qq.com/s/4AJq2z_CBSE74LzGBXtqAA"
+  },
+  "id": "evt_1778403649208",
+  "timestamp": 1778403649
+}
