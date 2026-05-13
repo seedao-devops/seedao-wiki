@@ -1,9 +1,76 @@
 {
-  "co_presence": 0.0,
-  "emergence": 0.0,
-  "xiaoyao": 0.0,
-  "people_count": 0,
-  "event_count": 0,
-  "edge_count": 0,
-  "individual_xiaoyao": {}
+  "co_presence": 1.8182,
+  "emergence": 2.0,
+  "xiaoyao": 0.4091,
+  "people_count": 11,
+  "event_count": 3,
+  "edge_count": 17,
+  "individual_xiaoyao": {
+    "ddd": {
+      "ir": 1.0,
+      "re": 0.0,
+      "nr": 1.0,
+      "score": 0.7
+    },
+    "jack_0x137": {
+      "ir": 1.0,
+      "re": 0.0,
+      "nr": 1.0,
+      "score": 0.7
+    },
+    "rebecca": {
+      "ir": 0.0,
+      "re": 0.0,
+      "nr": 1.0,
+      "score": 0.3
+    },
+    "shawn": {
+      "ir": 0.0,
+      "re": 0.0,
+      "nr": 1.0,
+      "score": 0.3
+    },
+    "slothrun": {
+      "ir": 0.0,
+      "re": 0.0,
+      "nr": 1.0,
+      "score": 0.3
+    },
+    "vera": {
+      "ir": 0.0,
+      "re": 0.0,
+      "nr": 1.0,
+      "score": 0.3
+    },
+    "唐晗": {
+      "ir": 0.0,
+      "re": 0.0,
+      "nr": 1.0,
+      "score": 0.3
+    },
+    "文倩": {
+      "ir": 1.0,
+      "re": 0.0,
+      "nr": 1.0,
+      "score": 0.7
+    },
+    "栗子": {
+      "ir": 0.0,
+      "re": 0.0,
+      "nr": 1.0,
+      "score": 0.3
+    },
+    "王汉洋": {
+      "ir": 0.0,
+      "re": 0.0,
+      "nr": 1.0,
+      "score": 0.3
+    },
+    "白鱼": {
+      "ir": 0.0,
+      "re": 0.0,
+      "nr": 1.0,
+      "score": 0.3
+    }
+  }
 }

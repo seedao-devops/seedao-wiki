@@ -1,8 +1,196 @@
 {
-  "nodes": [],
-  "edges": [],
+  "nodes": [
+    {
+      "id": "ddd"
+    },
+    {
+      "id": "jack_0x137"
+    },
+    {
+      "id": "rebecca"
+    },
+    {
+      "id": "shawn"
+    },
+    {
+      "id": "slothrun"
+    },
+    {
+      "id": "vera"
+    },
+    {
+      "id": "唐晗"
+    },
+    {
+      "id": "文倩"
+    },
+    {
+      "id": "栗子"
+    },
+    {
+      "id": "王汉洋"
+    },
+    {
+      "id": "白鱼"
+    }
+  ],
+  "edges": [
+    {
+      "source": "ddd",
+      "target": "rebecca",
+      "density": 3.0,
+      "type": "normal",
+      "events": [
+        "evt_1778403649208"
+      ]
+    },
+    {
+      "source": "ddd",
+      "target": "slothrun",
+      "density": 3.0,
+      "type": "normal",
+      "events": [
+        "evt_1778403649208"
+      ]
+    },
+    {
+      "source": "ddd",
+      "target": "王汉洋",
+      "density": 3.0,
+      "type": "normal",
+      "events": [
+        "evt_1778403649208"
+      ]
+    },
+    {
+      "source": "ddd",
+      "target": "vera",
+      "density": 3.0,
+      "type": "normal",
+      "events": [
+        "evt_1778403649208"
+      ]
+    },
+    {
+      "source": "rebecca",
+      "target": "slothrun",
+      "density": 2.5,
+      "type": "weak",
+      "events": [
+        "evt_1778403649208"
+      ]
+    },
+    {
+      "source": "rebecca",
+      "target": "王汉洋",
+      "density": 2.5,
+      "type": "weak",
+      "events": [
+        "evt_1778403649208"
+      ]
+    },
+    {
+      "source": "rebecca",
+      "target": "vera",
+      "density": 2.5,
+      "type": "weak",
+      "events": [
+        "evt_1778403649208"
+      ]
+    },
+    {
+      "source": "slothrun",
+      "target": "王汉洋",
+      "density": 2.5,
+      "type": "weak",
+      "events": [
+        "evt_1778403649208"
+      ]
+    },
+    {
+      "source": "slothrun",
+      "target": "vera",
+      "density": 2.5,
+      "type": "weak",
+      "events": [
+        "evt_1778403649208"
+      ]
+    },
+    {
+      "source": "vera",
+      "target": "王汉洋",
+      "density": 2.5,
+      "type": "weak",
+      "events": [
+        "evt_1778403649208"
+      ]
+    },
+    {
+      "source": "jack_0x137",
+      "target": "shawn",
+      "density": 3.0,
+      "type": "normal",
+      "events": [
+        "evt_1778404160162"
+      ]
+    },
+    {
+      "source": "jack_0x137",
+      "target": "唐晗",
+      "density": 3.0,
+      "type": "normal",
+      "events": [
+        "evt_1778404160162"
+      ]
+    },
+    {
+      "source": "jack_0x137",
+      "target": "白鱼",
+      "density": 3.0,
+      "type": "normal",
+      "events": [
+        "evt_1778404160162"
+      ]
+    },
+    {
+      "source": "shawn",
+      "target": "唐晗",
+      "density": 2.5,
+      "type": "weak",
+      "events": [
+        "evt_1778404160162"
+      ]
+    },
+    {
+      "source": "shawn",
+      "target": "白鱼",
+      "density": 2.5,
+      "type": "weak",
+      "events": [
+        "evt_1778404160162"
+      ]
+    },
+    {
+      "source": "唐晗",
+      "target": "白鱼",
+      "density": 2.5,
+      "type": "weak",
+      "events": [
+        "evt_1778404160162"
+      ]
+    },
+    {
+      "source": "文倩",
+      "target": "栗子",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778552831276"
+      ]
+    }
+  ],
   "stats": {
-    "node_count": 0,
-    "edge_count": 0
+    "node_count": 11,
+    "edge_count": 17
   }
 }

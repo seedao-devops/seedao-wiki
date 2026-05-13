@@ -32,3 +32,7 @@ tags: []
 ## [2026-05-10] refresh | Wiki updated
 - Events: 0, People: 0, Edges: 0
 - State: co_presence=0.0, emergence=0.0, xiaoyao=0.0
+
+## [2026-05-13] refresh | Wiki updated
+- Events: 3, People: 11, Edges: 17
+- State: co_presence=1.8182, emergence=2.0, xiaoyao=0.4091
