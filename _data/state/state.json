@@ -1,11 +1,17 @@
 {
-  "co_presence": 1.8182,
-  "emergence": 2.0,
-  "xiaoyao": 0.4091,
-  "people_count": 11,
-  "event_count": 3,
-  "edge_count": 17,
+  "co_presence": 1.75,
+  "emergence": 1.75,
+  "xiaoyao": 0.4417,
+  "people_count": 12,
+  "event_count": 4,
+  "edge_count": 18,
   "individual_xiaoyao": {
+    "T1NG": {
+      "ir": 0.0,
+      "re": 0.0,
+      "nr": 1.0,
+      "score": 0.3
+    },
     "ddd": {
       "ir": 1.0,
       "re": 0.0,
@@ -43,10 +49,10 @@
       "score": 0.3
     },
     "唐晗": {
-      "ir": 0.0,
-      "re": 0.0,
+      "ir": 0.5,
+      "re": 1.0,
       "nr": 1.0,
-      "score": 0.3
+      "score": 0.8
     },
     "文倩": {
       "ir": 1.0,

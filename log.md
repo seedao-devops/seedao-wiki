@@ -51,3 +51,7 @@ tags: []
   - 成员 T1NG 缺少简介 (profile.bio)，建议补充
   - 成员 T1NG 未记录技能 (skills)，建议补充
   - 成员 T1NG 未记录兴趣 (interests)，建议补充
+
+## [2026-05-14] refresh | Wiki updated
+- Events: 4, People: 12, Edges: 18
+- State: co_presence=1.75, emergence=1.75, xiaoyao=0.4417

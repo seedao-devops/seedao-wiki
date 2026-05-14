@@ -1,14 +1,14 @@
 ---
 title: 关系图谱
-updated: 2026-05-13
+updated: 2026-05-14
 type: graph
 tags: []
 ---
 
 # 关系图谱
 
-- 节点数: 11
-- 边数: 17
+- 节点数: 12
+- 边数: 18
 
 ## 关系列表
 
@@ -21,6 +21,7 @@ tags: []
 | [[people/jack_0x137|jack_0x137]] | [[people/shawn|shawn]] | 3.0 | 中 | [[events/evt_1778404160162|SeeDAO万字专访：11个月4次低谷，一个DAO如何从停滞中重生？]] |
 | [[people/jack_0x137|jack_0x137]] | [[people/唐晗|唐晗]] | 3.0 | 中 | [[events/evt_1778404160162|SeeDAO万字专访：11个月4次低谷，一个DAO如何从停滞中重生？]] |
 | [[people/jack_0x137|jack_0x137]] | [[people/白鱼|白鱼]] | 3.0 | 中 | [[events/evt_1778404160162|SeeDAO万字专访：11个月4次低谷，一个DAO如何从停滞中重生？]] |
+| [[people/T1NG|T1NG]] | [[people/唐晗|唐晗]] | 3.0 | 中 | [[events/evt_1778723174091|论涌现：为什么 DAO 将崛起？]] |
 | [[people/rebecca|rebecca]] | [[people/slothrun|slothrun]] | 2.5 | 弱 | [[events/evt_1778403649208|人物志 · 第二期 | Rebecca：建一座没有围墙的 Web3 大学]] |
 | [[people/rebecca|rebecca]] | [[people/王汉洋|王汉洋]] | 2.5 | 弱 | [[events/evt_1778403649208|人物志 · 第二期 | Rebecca：建一座没有围墙的 Web3 大学]] |
 | [[people/rebecca|rebecca]] | [[people/vera|vera]] | 2.5 | 弱 | [[events/evt_1778403649208|人物志 · 第二期 | Rebecca：建一座没有围墙的 Web3 大学]] |
