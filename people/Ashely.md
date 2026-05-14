@@ -1,0 +1,47 @@
+---
+title: Ashely
+type: person
+tags: []
+xiaoyao: 0.3
+events: 2
+---
+
+# Ashely
+
+## 逍遥指数 (Xiaoyao)
+
+| 维度 | 数值 |
+|------|------|
+| 发起能力 (IR) | 0.0 |
+| 角色多样性 (RE) | 0.0 |
+| 网络扩展 (NR) | 1.0 |
+| **总分** | **0.3** |
+
+## Event 参与记录
+
+- [[events/evt_1778682500243|SeeDAO'看见你'奇人奇事年终盘点]] (2026-05-13) — 角色: 参与者
+- [[events/evt_1778682500303|SeeDAO'看见你'奇人奇事年终盘点（活动记录篇）]] (2026-05-13) — 角色: 参与者
+
+## 关系网络
+
+- [[people/Queeny|Queeny]] — 密度: 2.7 (弱)
+- [[people/文倩|文倩]] — 密度: 2.4 (弱)
+- [[people/T1NG|T1NG]] — 密度: 2.2 (弱)
+- [[people/MC|MC]] — 密度: 2.2 (弱)
+- [[people/浩哥|浩哥]] — 密度: 2.0 (弱)
+- [[people/喵本|喵本]] — 密度: 2.0 (弱)
+- [[people/康师傅|康师傅]] — 密度: 2.0 (弱)
+- [[people/吴昊|吴昊]] — 密度: 2.0 (弱)
+- [[people/Owen|Owen]] — 密度: 2.0 (弱)
+- [[people/Henry|Henry]] — 密度: 2.0 (弱)
+- [[people/古忆|古忆]] — 密度: 2.0 (弱)
+- [[people/定慧|定慧]] — 密度: 2.0 (弱)
+- [[people/Forever|Forever]] — 密度: 2.0 (弱)
+- [[people/SeeDAO|SeeDAO]] — 密度: 1.5 (弱)
+- [[people/冯光能|冯光能]] — 密度: 1.0 (弱)
+
+## 相关页面
+
+- [[index|返回索引]]
+- [[community|社区主页]]
+

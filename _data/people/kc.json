@@ -1,0 +1,17 @@
+{
+  "id": "kc",
+  "profile": {},
+  "skills": [],
+  "interests": [],
+  "links": {},
+  "works_input": [],
+  "event_refs": [
+    {
+      "event_id": "evt_1778682500401",
+      "role": "initiator",
+      "type": "activity",
+      "timestamp": 1778682500
+    }
+  ],
+  "external_inputs": []
+}

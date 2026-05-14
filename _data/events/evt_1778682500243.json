@@ -1,0 +1,40 @@
+{
+  "type": "activity",
+  "initiator": "Queeny",
+  "co_creators": [
+    "文倩"
+  ],
+  "participants": [
+    "浩哥",
+    "喵本",
+    "康师傅",
+    "吴昊",
+    "Owen",
+    "Henry",
+    "古忆",
+    "定慧",
+    "Forever",
+    "Ashely",
+    "冯光能",
+    "T1NG",
+    "MC"
+  ],
+  "metadata": {
+    "title": "SeeDAO'看见你'奇人奇事年终盘点",
+    "description": "年终盘点晚会，首次在视频号直播，近1500人在线观看。包含歪脖三观、Seed NFT二创、娱乐101、共画与非、SeeTalk播客等奇事分享"
+  },
+  "artifacts": [
+    {
+      "type": "link",
+      "url": "https://meeting.tencent.com/user-center/shared-record-info?id=3c8c4110-45be-4e6e-895a-9b413ffe87e8&from=3&record_type=2",
+      "description": "晚会完整视频"
+    },
+    {
+      "type": "link",
+      "url": "https://mp.weixin.qq.com/s/cvQsqMpwy1eA_IOM2xtGsw",
+      "description": "活动回顾文章"
+    }
+  ],
+  "id": "evt_1778682500243",
+  "timestamp": 1778682500
+}

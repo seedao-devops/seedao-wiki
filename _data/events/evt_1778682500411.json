@@ -1,0 +1,21 @@
+{
+  "type": "activity",
+  "initiator": "白鱼",
+  "co_creators": [
+    "唐晗"
+  ],
+  "participants": [],
+  "metadata": {
+    "title": "SIP-358：积分回购与投资款返还提案",
+    "description": "SeeDAO 1.0进入清算阶段，投资人退款基本完成，社区积分SCR回购开始，持续一年"
+  },
+  "artifacts": [
+    {
+      "type": "link",
+      "url": "https://claim.seedao.xyz/",
+      "description": "回购网站"
+    }
+  ],
+  "id": "evt_1778682500411",
+  "timestamp": 1778682500
+}

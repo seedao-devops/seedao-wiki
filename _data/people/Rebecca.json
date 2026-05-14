@@ -1,0 +1,35 @@
+{
+  "id": "Rebecca",
+  "profile": {},
+  "skills": [],
+  "interests": [],
+  "links": {},
+  "works_input": [],
+  "event_refs": [
+    {
+      "event_id": "evt_1778682500314",
+      "role": "initiator",
+      "type": "project",
+      "timestamp": 1778682500
+    },
+    {
+      "event_id": "evt_1778682500332",
+      "role": "co_creator",
+      "type": "project",
+      "timestamp": 1778682500
+    },
+    {
+      "event_id": "evt_1778682500341",
+      "role": "participant",
+      "type": "activity",
+      "timestamp": 1778682500
+    },
+    {
+      "event_id": "evt_1778682500441",
+      "role": "participant",
+      "type": "activity",
+      "timestamp": 1778682500
+    }
+  ],
+  "external_inputs": []
+}

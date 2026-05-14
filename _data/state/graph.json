@@ -1,208 +1,3484 @@
 {
   "nodes": [
     {
+      "id": "100多位参会者"
+    },
+    {
+      "id": "Ashely"
+    },
+    {
+      "id": "Ashley"
+    },
+    {
+      "id": "Cecilia"
+    },
+    {
+      "id": "DDD"
+    },
+    {
+      "id": "Forever"
+    },
+    {
+      "id": "Frozen"
+    },
+    {
+      "id": "Handuo"
+    },
+    {
+      "id": "Henry"
+    },
+    {
+      "id": "MC"
+    },
+    {
+      "id": "Octar"
+    },
+    {
+      "id": "Owen"
+    },
+    {
+      "id": "Owen阿文"
+    },
+    {
+      "id": "Queeny"
+    },
+    {
+      "id": "Quenny"
+    },
+    {
+      "id": "QuincyStarnes"
+    },
+    {
+      "id": "Rebecca"
+    },
+    {
+      "id": "Ricky"
+    },
+    {
+      "id": "SeeDAO"
+    },
+    {
+      "id": "SeeDAO全体成员"
+    },
+    {
+      "id": "SeeDAO宣传公会"
+    },
+    {
+      "id": "SeeDAO社区成员"
+    },
+    {
+      "id": "Shawn"
+    },
+    {
+      "id": "Su"
+    },
+    {
       "id": "T1NG"
     },
     {
-      "id": "ddd"
+      "id": "Vincent"
     },
     {
-      "id": "jack_0x137"
+      "id": "XiYang"
     },
     {
-      "id": "rebecca"
+      "id": "YCSSR"
     },
     {
-      "id": "shawn"
+      "id": "adria"
     },
     {
-      "id": "slothrun"
+      "id": "ashley"
     },
     {
-      "id": "vera"
+      "id": "chensi"
+    },
+    {
+      "id": "emma"
+    },
+    {
+      "id": "guyi"
+    },
+    {
+      "id": "yu"
+    },
+    {
+      "id": "zoe"
+    },
+    {
+      "id": "冯光能"
+    },
+    {
+      "id": "勿心"
+    },
+    {
+      "id": "包小糯"
+    },
+    {
+      "id": "古忆"
+    },
+    {
+      "id": "吞吞"
+    },
+    {
+      "id": "吴昊"
+    },
+    {
+      "id": "咖啡"
     },
     {
       "id": "唐晗"
     },
     {
+      "id": "喜喜"
+    },
+    {
+      "id": "喵本"
+    },
+    {
+      "id": "天涯鸽女"
+    },
+    {
+      "id": "定慧"
+    },
+    {
+      "id": "富贵"
+    },
+    {
+      "id": "小胡"
+    },
+    {
+      "id": "康师傅"
+    },
+    {
       "id": "文倩"
     },
     {
-      "id": "栗子"
+      "id": "昌用老师"
     },
     {
-      "id": "王汉洋"
+      "id": "江滚滚"
+    },
+    {
+      "id": "浩哥"
+    },
+    {
+      "id": "温菲尔德王"
+    },
+    {
+      "id": "白衣"
     },
     {
       "id": "白鱼"
+    },
+    {
+      "id": "稼骐"
+    },
+    {
+      "id": "米海杉"
+    },
+    {
+      "id": "翁浩"
+    },
+    {
+      "id": "舟舟"
+    },
+    {
+      "id": "节点共识大会"
+    },
+    {
+      "id": "行天春彦"
+    },
+    {
+      "id": "赛赛"
     }
   ],
   "edges": [
     {
-      "source": "ddd",
-      "target": "rebecca",
+      "source": "QuincyStarnes",
+      "target": "温菲尔德王",
       "density": 3.0,
       "type": "normal",
       "events": [
-        "evt_1778403649208"
+        "evt_1778682500206"
       ]
     },
     {
-      "source": "ddd",
-      "target": "slothrun",
+      "source": "YCSSR",
+      "target": "温菲尔德王",
       "density": 3.0,
       "type": "normal",
       "events": [
-        "evt_1778403649208"
+        "evt_1778682500206"
       ]
     },
     {
-      "source": "ddd",
-      "target": "王汉洋",
+      "source": "QuincyStarnes",
+      "target": "YCSSR",
+      "density": 2.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500206"
+      ]
+    },
+    {
+      "source": "QuincyStarnes",
+      "target": "文倩",
       "density": 3.0,
       "type": "normal",
       "events": [
-        "evt_1778403649208"
+        "evt_1778682500213"
       ]
     },
     {
-      "source": "ddd",
-      "target": "vera",
+      "source": "Ricky",
+      "target": "文倩",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "天涯鸽女",
+      "target": "文倩",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "ashley",
+      "target": "文倩",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "zoe",
+      "target": "文倩",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "喜喜",
+      "target": "文倩",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Owen阿文",
+      "target": "文倩",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "guyi",
+      "target": "文倩",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "chensi",
+      "target": "文倩",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "富贵",
+      "target": "文倩",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "勿心",
+      "target": "文倩",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "吞吞",
+      "target": "文倩",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "emma",
+      "target": "文倩",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "文倩",
+      "target": "米海杉",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "adria",
+      "target": "文倩",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "文倩",
+      "target": "稼骐",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "文倩",
+      "target": "行天春彦",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "QuincyStarnes",
+      "target": "Ricky",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "QuincyStarnes",
+      "target": "天涯鸽女",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "QuincyStarnes",
+      "target": "ashley",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "QuincyStarnes",
+      "target": "zoe",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "QuincyStarnes",
+      "target": "喜喜",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Owen阿文",
+      "target": "QuincyStarnes",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "QuincyStarnes",
+      "target": "guyi",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "QuincyStarnes",
+      "target": "chensi",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "QuincyStarnes",
+      "target": "富贵",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "QuincyStarnes",
+      "target": "勿心",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "QuincyStarnes",
+      "target": "吞吞",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "QuincyStarnes",
+      "target": "emma",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "QuincyStarnes",
+      "target": "米海杉",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "QuincyStarnes",
+      "target": "adria",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "QuincyStarnes",
+      "target": "稼骐",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "QuincyStarnes",
+      "target": "行天春彦",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Ricky",
+      "target": "天涯鸽女",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Ricky",
+      "target": "ashley",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Ricky",
+      "target": "zoe",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Ricky",
+      "target": "喜喜",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Owen阿文",
+      "target": "Ricky",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Ricky",
+      "target": "guyi",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Ricky",
+      "target": "chensi",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Ricky",
+      "target": "富贵",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Ricky",
+      "target": "勿心",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Ricky",
+      "target": "吞吞",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Ricky",
+      "target": "emma",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Ricky",
+      "target": "米海杉",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Ricky",
+      "target": "adria",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Ricky",
+      "target": "稼骐",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Ricky",
+      "target": "行天春彦",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "ashley",
+      "target": "天涯鸽女",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "zoe",
+      "target": "天涯鸽女",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "喜喜",
+      "target": "天涯鸽女",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Owen阿文",
+      "target": "天涯鸽女",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "guyi",
+      "target": "天涯鸽女",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "chensi",
+      "target": "天涯鸽女",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "天涯鸽女",
+      "target": "富贵",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "勿心",
+      "target": "天涯鸽女",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "吞吞",
+      "target": "天涯鸽女",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "emma",
+      "target": "天涯鸽女",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "天涯鸽女",
+      "target": "米海杉",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "adria",
+      "target": "天涯鸽女",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "天涯鸽女",
+      "target": "稼骐",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "天涯鸽女",
+      "target": "行天春彦",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "ashley",
+      "target": "zoe",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "ashley",
+      "target": "喜喜",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Owen阿文",
+      "target": "ashley",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "ashley",
+      "target": "guyi",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "ashley",
+      "target": "chensi",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "ashley",
+      "target": "富贵",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "ashley",
+      "target": "勿心",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "ashley",
+      "target": "吞吞",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "ashley",
+      "target": "emma",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "ashley",
+      "target": "米海杉",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "adria",
+      "target": "ashley",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "ashley",
+      "target": "稼骐",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "ashley",
+      "target": "行天春彦",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "zoe",
+      "target": "喜喜",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Owen阿文",
+      "target": "zoe",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "guyi",
+      "target": "zoe",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "chensi",
+      "target": "zoe",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "zoe",
+      "target": "富贵",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "zoe",
+      "target": "勿心",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "zoe",
+      "target": "吞吞",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "emma",
+      "target": "zoe",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "zoe",
+      "target": "米海杉",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "adria",
+      "target": "zoe",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "zoe",
+      "target": "稼骐",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "zoe",
+      "target": "行天春彦",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Owen阿文",
+      "target": "喜喜",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "guyi",
+      "target": "喜喜",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "chensi",
+      "target": "喜喜",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "喜喜",
+      "target": "富贵",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "勿心",
+      "target": "喜喜",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "吞吞",
+      "target": "喜喜",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "emma",
+      "target": "喜喜",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "喜喜",
+      "target": "米海杉",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "adria",
+      "target": "喜喜",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "喜喜",
+      "target": "稼骐",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "喜喜",
+      "target": "行天春彦",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Owen阿文",
+      "target": "guyi",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Owen阿文",
+      "target": "chensi",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Owen阿文",
+      "target": "富贵",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Owen阿文",
+      "target": "勿心",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Owen阿文",
+      "target": "吞吞",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Owen阿文",
+      "target": "emma",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Owen阿文",
+      "target": "米海杉",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Owen阿文",
+      "target": "adria",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Owen阿文",
+      "target": "稼骐",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Owen阿文",
+      "target": "行天春彦",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "chensi",
+      "target": "guyi",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "guyi",
+      "target": "富贵",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "guyi",
+      "target": "勿心",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "guyi",
+      "target": "吞吞",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "emma",
+      "target": "guyi",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "guyi",
+      "target": "米海杉",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "adria",
+      "target": "guyi",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "guyi",
+      "target": "稼骐",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "guyi",
+      "target": "行天春彦",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "chensi",
+      "target": "富贵",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "chensi",
+      "target": "勿心",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "chensi",
+      "target": "吞吞",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "chensi",
+      "target": "emma",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "chensi",
+      "target": "米海杉",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "adria",
+      "target": "chensi",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "chensi",
+      "target": "稼骐",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "chensi",
+      "target": "行天春彦",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "勿心",
+      "target": "富贵",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "吞吞",
+      "target": "富贵",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "emma",
+      "target": "富贵",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "富贵",
+      "target": "米海杉",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "adria",
+      "target": "富贵",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "富贵",
+      "target": "稼骐",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "富贵",
+      "target": "行天春彦",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "勿心",
+      "target": "吞吞",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "emma",
+      "target": "勿心",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "勿心",
+      "target": "米海杉",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "adria",
+      "target": "勿心",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "勿心",
+      "target": "稼骐",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "勿心",
+      "target": "行天春彦",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "emma",
+      "target": "吞吞",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "吞吞",
+      "target": "米海杉",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "adria",
+      "target": "吞吞",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "吞吞",
+      "target": "稼骐",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "吞吞",
+      "target": "行天春彦",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "emma",
+      "target": "米海杉",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "adria",
+      "target": "emma",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "emma",
+      "target": "稼骐",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "emma",
+      "target": "行天春彦",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "adria",
+      "target": "米海杉",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "稼骐",
+      "target": "米海杉",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "米海杉",
+      "target": "行天春彦",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "adria",
+      "target": "稼骐",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "adria",
+      "target": "行天春彦",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "稼骐",
+      "target": "行天春彦",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500213"
+      ]
+    },
+    {
+      "source": "Vincent",
+      "target": "康师傅",
       "density": 3.0,
       "type": "normal",
       "events": [
-        "evt_1778403649208"
+        "evt_1778682500230"
       ]
     },
     {
-      "source": "rebecca",
-      "target": "slothrun",
-      "density": 2.5,
+      "source": "Queeny",
+      "target": "文倩",
+      "density": 5.5,
+      "type": "normal",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Queeny",
+      "target": "浩哥",
+      "density": 2.7,
       "type": "weak",
       "events": [
-        "evt_1778403649208"
+        "evt_1778682500243",
+        "evt_1778682500303"
       ]
     },
     {
-      "source": "rebecca",
-      "target": "王汉洋",
-      "density": 2.5,
+      "source": "Queeny",
+      "target": "喵本",
+      "density": 2.7,
       "type": "weak",
       "events": [
-        "evt_1778403649208"
+        "evt_1778682500243",
+        "evt_1778682500303"
       ]
     },
     {
-      "source": "rebecca",
-      "target": "vera",
-      "density": 2.5,
+      "source": "Queeny",
+      "target": "康师傅",
+      "density": 2.7,
       "type": "weak",
       "events": [
-        "evt_1778403649208"
+        "evt_1778682500243",
+        "evt_1778682500303"
       ]
     },
     {
-      "source": "slothrun",
-      "target": "王汉洋",
-      "density": 2.5,
+      "source": "Queeny",
+      "target": "吴昊",
+      "density": 2.7,
       "type": "weak",
       "events": [
-        "evt_1778403649208"
+        "evt_1778682500243",
+        "evt_1778682500303"
       ]
     },
     {
-      "source": "slothrun",
-      "target": "vera",
-      "density": 2.5,
+      "source": "Owen",
+      "target": "Queeny",
+      "density": 2.7,
       "type": "weak",
       "events": [
-        "evt_1778403649208"
+        "evt_1778682500243",
+        "evt_1778682500303"
       ]
     },
     {
-      "source": "vera",
-      "target": "王汉洋",
-      "density": 2.5,
+      "source": "Henry",
+      "target": "Queeny",
+      "density": 2.7,
       "type": "weak",
       "events": [
-        "evt_1778403649208"
+        "evt_1778682500243",
+        "evt_1778682500303"
       ]
     },
     {
-      "source": "jack_0x137",
-      "target": "shawn",
+      "source": "Queeny",
+      "target": "古忆",
+      "density": 2.7,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Queeny",
+      "target": "定慧",
+      "density": 2.7,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Forever",
+      "target": "Queeny",
+      "density": 2.7,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Ashely",
+      "target": "Queeny",
+      "density": 2.7,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Queeny",
+      "target": "冯光能",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243"
+      ]
+    },
+    {
+      "source": "Queeny",
+      "target": "T1NG",
+      "density": 4.0,
+      "type": "normal",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "MC",
+      "target": "Queeny",
+      "density": 4.0,
+      "type": "normal",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "文倩",
+      "target": "浩哥",
+      "density": 2.4,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "喵本",
+      "target": "文倩",
+      "density": 2.4,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "康师傅",
+      "target": "文倩",
+      "density": 2.4,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "吴昊",
+      "target": "文倩",
+      "density": 2.4,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Owen",
+      "target": "文倩",
+      "density": 2.4,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Henry",
+      "target": "文倩",
+      "density": 2.4,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "古忆",
+      "target": "文倩",
+      "density": 2.4,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "定慧",
+      "target": "文倩",
+      "density": 2.4,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Forever",
+      "target": "文倩",
+      "density": 2.4,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Ashely",
+      "target": "文倩",
+      "density": 2.4,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "冯光能",
+      "target": "文倩",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243"
+      ]
+    },
+    {
+      "source": "T1NG",
+      "target": "文倩",
+      "density": 3.7,
+      "type": "normal",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "MC",
+      "target": "文倩",
+      "density": 3.7,
+      "type": "normal",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "喵本",
+      "target": "浩哥",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "康师傅",
+      "target": "浩哥",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "吴昊",
+      "target": "浩哥",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Owen",
+      "target": "浩哥",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Henry",
+      "target": "浩哥",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "古忆",
+      "target": "浩哥",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "定慧",
+      "target": "浩哥",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Forever",
+      "target": "浩哥",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Ashely",
+      "target": "浩哥",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "冯光能",
+      "target": "浩哥",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243"
+      ]
+    },
+    {
+      "source": "T1NG",
+      "target": "浩哥",
+      "density": 2.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "MC",
+      "target": "浩哥",
+      "density": 2.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "喵本",
+      "target": "康师傅",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "吴昊",
+      "target": "喵本",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Owen",
+      "target": "喵本",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Henry",
+      "target": "喵本",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "古忆",
+      "target": "喵本",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "喵本",
+      "target": "定慧",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Forever",
+      "target": "喵本",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Ashely",
+      "target": "喵本",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "冯光能",
+      "target": "喵本",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243"
+      ]
+    },
+    {
+      "source": "T1NG",
+      "target": "喵本",
+      "density": 2.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "MC",
+      "target": "喵本",
+      "density": 2.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "吴昊",
+      "target": "康师傅",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Owen",
+      "target": "康师傅",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Henry",
+      "target": "康师傅",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "古忆",
+      "target": "康师傅",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "定慧",
+      "target": "康师傅",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Forever",
+      "target": "康师傅",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Ashely",
+      "target": "康师傅",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "冯光能",
+      "target": "康师傅",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243"
+      ]
+    },
+    {
+      "source": "T1NG",
+      "target": "康师傅",
+      "density": 2.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "MC",
+      "target": "康师傅",
+      "density": 2.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Owen",
+      "target": "吴昊",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Henry",
+      "target": "吴昊",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "古忆",
+      "target": "吴昊",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "吴昊",
+      "target": "定慧",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Forever",
+      "target": "吴昊",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Ashely",
+      "target": "吴昊",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "冯光能",
+      "target": "吴昊",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243"
+      ]
+    },
+    {
+      "source": "T1NG",
+      "target": "吴昊",
+      "density": 2.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "MC",
+      "target": "吴昊",
+      "density": 2.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Henry",
+      "target": "Owen",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Owen",
+      "target": "古忆",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Owen",
+      "target": "定慧",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Forever",
+      "target": "Owen",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Ashely",
+      "target": "Owen",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Owen",
+      "target": "冯光能",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243"
+      ]
+    },
+    {
+      "source": "Owen",
+      "target": "T1NG",
+      "density": 2.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "MC",
+      "target": "Owen",
+      "density": 2.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Henry",
+      "target": "古忆",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Henry",
+      "target": "定慧",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Forever",
+      "target": "Henry",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Ashely",
+      "target": "Henry",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Henry",
+      "target": "冯光能",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243"
+      ]
+    },
+    {
+      "source": "Henry",
+      "target": "T1NG",
+      "density": 2.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Henry",
+      "target": "MC",
+      "density": 2.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "古忆",
+      "target": "定慧",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Forever",
+      "target": "古忆",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Ashely",
+      "target": "古忆",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "冯光能",
+      "target": "古忆",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243"
+      ]
+    },
+    {
+      "source": "T1NG",
+      "target": "古忆",
+      "density": 2.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "MC",
+      "target": "古忆",
+      "density": 2.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Forever",
+      "target": "定慧",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Ashely",
+      "target": "定慧",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "冯光能",
+      "target": "定慧",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243"
+      ]
+    },
+    {
+      "source": "T1NG",
+      "target": "定慧",
+      "density": 2.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "MC",
+      "target": "定慧",
+      "density": 2.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Ashely",
+      "target": "Forever",
+      "density": 2.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Forever",
+      "target": "冯光能",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243"
+      ]
+    },
+    {
+      "source": "Forever",
+      "target": "T1NG",
+      "density": 2.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Forever",
+      "target": "MC",
+      "density": 2.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Ashely",
+      "target": "冯光能",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243"
+      ]
+    },
+    {
+      "source": "Ashely",
+      "target": "T1NG",
+      "density": 2.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Ashely",
+      "target": "MC",
+      "density": 2.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "T1NG",
+      "target": "冯光能",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243"
+      ]
+    },
+    {
+      "source": "MC",
+      "target": "冯光能",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500243"
+      ]
+    },
+    {
+      "source": "MC",
+      "target": "T1NG",
+      "density": 3.5,
+      "type": "normal",
+      "events": [
+        "evt_1778682500243",
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "江滚滚",
+      "target": "翁浩",
       "density": 3.0,
       "type": "normal",
       "events": [
-        "evt_1778404160162"
+        "evt_1778682500253"
       ]
     },
     {
-      "source": "jack_0x137",
-      "target": "唐晗",
-      "density": 3.0,
-      "type": "normal",
-      "events": [
-        "evt_1778404160162"
-      ]
-    },
-    {
-      "source": "jack_0x137",
-      "target": "白鱼",
-      "density": 3.0,
-      "type": "normal",
-      "events": [
-        "evt_1778404160162"
-      ]
-    },
-    {
-      "source": "shawn",
-      "target": "唐晗",
-      "density": 2.5,
+      "source": "Quenny",
+      "target": "翁浩",
+      "density": 1.5,
       "type": "weak",
       "events": [
-        "evt_1778404160162"
+        "evt_1778682500253"
       ]
     },
     {
-      "source": "shawn",
-      "target": "白鱼",
-      "density": 2.5,
+      "source": "Quenny",
+      "target": "江滚滚",
+      "density": 1.2,
       "type": "weak",
       "events": [
-        "evt_1778404160162"
+        "evt_1778682500253"
       ]
     },
     {
       "source": "唐晗",
       "target": "白鱼",
-      "density": 2.5,
-      "type": "weak",
+      "density": 18.0,
+      "type": "strong",
       "events": [
-        "evt_1778404160162"
+        "evt_1778682500270",
+        "evt_1778682500341",
+        "evt_1778682500351",
+        "evt_1778682500361",
+        "evt_1778682500380",
+        "evt_1778682500411",
+        "evt_1778682500420",
+        "evt_1778682500431"
       ]
     },
     {
-      "source": "文倩",
-      "target": "栗子",
-      "density": 1.5,
-      "type": "weak",
-      "events": [
-        "evt_1778552831276"
-      ]
-    },
-    {
-      "source": "T1NG",
-      "target": "唐晗",
+      "source": "白衣",
+      "target": "白鱼",
       "density": 3.0,
       "type": "normal",
       "events": [
-        "evt_1778723174091"
+        "evt_1778682500286"
+      ]
+    },
+    {
+      "source": "yu",
+      "target": "白鱼",
+      "density": 3.0,
+      "type": "normal",
+      "events": [
+        "evt_1778682500286"
+      ]
+    },
+    {
+      "source": "小胡",
+      "target": "白鱼",
+      "density": 3.0,
+      "type": "normal",
+      "events": [
+        "evt_1778682500286"
+      ]
+    },
+    {
+      "source": "yu",
+      "target": "白衣",
+      "density": 2.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500286"
+      ]
+    },
+    {
+      "source": "小胡",
+      "target": "白衣",
+      "density": 2.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500286"
+      ]
+    },
+    {
+      "source": "yu",
+      "target": "小胡",
+      "density": 2.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500286"
+      ]
+    },
+    {
+      "source": "Queeny",
+      "target": "SeeDAO",
+      "density": 3.0,
+      "type": "normal",
+      "events": [
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "SeeDAO",
+      "target": "文倩",
+      "density": 3.0,
+      "type": "normal",
+      "events": [
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "SeeDAO",
+      "target": "T1NG",
+      "density": 3.0,
+      "type": "normal",
+      "events": [
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "MC",
+      "target": "SeeDAO",
+      "density": 3.0,
+      "type": "normal",
+      "events": [
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "SeeDAO",
+      "target": "浩哥",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "SeeDAO",
+      "target": "喵本",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "SeeDAO",
+      "target": "康师傅",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "SeeDAO",
+      "target": "吴昊",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Owen",
+      "target": "SeeDAO",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Henry",
+      "target": "SeeDAO",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "SeeDAO",
+      "target": "古忆",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "SeeDAO",
+      "target": "定慧",
+      "density": 4.5,
+      "type": "normal",
+      "events": [
+        "evt_1778682500303",
+        "evt_1778682500380"
+      ]
+    },
+    {
+      "source": "Forever",
+      "target": "SeeDAO",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Ashely",
+      "target": "SeeDAO",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500303"
+      ]
+    },
+    {
+      "source": "Rebecca",
+      "target": "咖啡",
+      "density": 6.5,
+      "type": "normal",
+      "events": [
+        "evt_1778682500314",
+        "evt_1778682500332",
+        "evt_1778682500441"
+      ]
+    },
+    {
+      "source": "Rebecca",
+      "target": "SeeDAO社区成员",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500314"
+      ]
+    },
+    {
+      "source": "SeeDAO社区成员",
+      "target": "咖啡",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500314"
+      ]
+    },
+    {
+      "source": "SeeDAO",
+      "target": "咖啡",
+      "density": 3.0,
+      "type": "normal",
+      "events": [
+        "evt_1778682500332"
+      ]
+    },
+    {
+      "source": "Rebecca",
+      "target": "SeeDAO",
+      "density": 3.0,
+      "type": "normal",
+      "events": [
+        "evt_1778682500332"
+      ]
+    },
+    {
+      "source": "Rebecca",
+      "target": "白鱼",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500341"
+      ]
+    },
+    {
+      "source": "昌用老师",
+      "target": "白鱼",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500341"
+      ]
+    },
+    {
+      "source": "Handuo",
+      "target": "白鱼",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500341"
+      ]
+    },
+    {
+      "source": "Rebecca",
+      "target": "唐晗",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500341"
+      ]
+    },
+    {
+      "source": "唐晗",
+      "target": "昌用老师",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500341"
+      ]
+    },
+    {
+      "source": "Handuo",
+      "target": "唐晗",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500341"
+      ]
+    },
+    {
+      "source": "Rebecca",
+      "target": "昌用老师",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500341"
+      ]
+    },
+    {
+      "source": "Handuo",
+      "target": "Rebecca",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500341"
+      ]
+    },
+    {
+      "source": "Handuo",
+      "target": "昌用老师",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500341"
+      ]
+    },
+    {
+      "source": "Frozen",
+      "target": "白鱼",
+      "density": 4.0,
+      "type": "normal",
+      "events": [
+        "evt_1778682500351",
+        "evt_1778682500361"
+      ]
+    },
+    {
+      "source": "Frozen",
+      "target": "唐晗",
+      "density": 3.5,
+      "type": "normal",
+      "events": [
+        "evt_1778682500351",
+        "evt_1778682500361"
+      ]
+    },
+    {
+      "source": "SeeDAO",
+      "target": "唐晗",
+      "density": 4.5,
+      "type": "normal",
+      "events": [
+        "evt_1778682500361",
+        "evt_1778682500380"
+      ]
+    },
+    {
+      "source": "SeeDAO",
+      "target": "白鱼",
+      "density": 4.5,
+      "type": "normal",
+      "events": [
+        "evt_1778682500361",
+        "evt_1778682500380"
+      ]
+    },
+    {
+      "source": "Frozen",
+      "target": "SeeDAO",
+      "density": 3.0,
+      "type": "normal",
+      "events": [
+        "evt_1778682500361"
+      ]
+    },
+    {
+      "source": "100多位参会者",
+      "target": "SeeDAO",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500361"
+      ]
+    },
+    {
+      "source": "100多位参会者",
+      "target": "唐晗",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500361"
+      ]
+    },
+    {
+      "source": "100多位参会者",
+      "target": "白鱼",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500361"
+      ]
+    },
+    {
+      "source": "100多位参会者",
+      "target": "Frozen",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500361"
+      ]
+    },
+    {
+      "source": "定慧",
+      "target": "白鱼",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500380"
+      ]
+    },
+    {
+      "source": "唐晗",
+      "target": "定慧",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500380"
+      ]
+    },
+    {
+      "source": "SeeDAO",
+      "target": "赛赛",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500390"
+      ]
+    },
+    {
+      "source": "SeeDAO",
+      "target": "包小糯",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500390"
+      ]
+    },
+    {
+      "source": "Octar",
+      "target": "SeeDAO",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500390"
+      ]
+    },
+    {
+      "source": "Cecilia",
+      "target": "SeeDAO",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500390"
+      ]
+    },
+    {
+      "source": "SeeDAO",
+      "target": "Su",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500390"
+      ]
+    },
+    {
+      "source": "SeeDAO",
+      "target": "XiYang",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500390"
+      ]
+    },
+    {
+      "source": "包小糯",
+      "target": "赛赛",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500390"
+      ]
+    },
+    {
+      "source": "Octar",
+      "target": "赛赛",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500390"
+      ]
+    },
+    {
+      "source": "Cecilia",
+      "target": "赛赛",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500390"
+      ]
+    },
+    {
+      "source": "Su",
+      "target": "赛赛",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500390"
+      ]
+    },
+    {
+      "source": "XiYang",
+      "target": "赛赛",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500390"
+      ]
+    },
+    {
+      "source": "Octar",
+      "target": "包小糯",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500390"
+      ]
+    },
+    {
+      "source": "Cecilia",
+      "target": "包小糯",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500390"
+      ]
+    },
+    {
+      "source": "Su",
+      "target": "包小糯",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500390"
+      ]
+    },
+    {
+      "source": "XiYang",
+      "target": "包小糯",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500390"
+      ]
+    },
+    {
+      "source": "Cecilia",
+      "target": "Octar",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500390"
+      ]
+    },
+    {
+      "source": "Octar",
+      "target": "Su",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500390"
+      ]
+    },
+    {
+      "source": "Octar",
+      "target": "XiYang",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500390"
+      ]
+    },
+    {
+      "source": "Cecilia",
+      "target": "Su",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500390"
+      ]
+    },
+    {
+      "source": "Cecilia",
+      "target": "XiYang",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500390"
+      ]
+    },
+    {
+      "source": "Su",
+      "target": "XiYang",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500390"
+      ]
+    },
+    {
+      "source": "白鱼",
+      "target": "节点共识大会",
+      "density": 3.0,
+      "type": "normal",
+      "events": [
+        "evt_1778682500420"
+      ]
+    },
+    {
+      "source": "唐晗",
+      "target": "节点共识大会",
+      "density": 3.0,
+      "type": "normal",
+      "events": [
+        "evt_1778682500420"
+      ]
+    },
+    {
+      "source": "SeeDAO全体成员",
+      "target": "节点共识大会",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500420"
+      ]
+    },
+    {
+      "source": "SeeDAO全体成员",
+      "target": "白鱼",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500420"
+      ]
+    },
+    {
+      "source": "SeeDAO全体成员",
+      "target": "唐晗",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500420"
+      ]
+    },
+    {
+      "source": "Ashley",
+      "target": "唐晗",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500431"
+      ]
+    },
+    {
+      "source": "Ashley",
+      "target": "白鱼",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500431"
+      ]
+    },
+    {
+      "source": "DDD",
+      "target": "SeeDAO宣传公会",
+      "density": 3.0,
+      "type": "normal",
+      "events": [
+        "evt_1778682500441"
+      ]
+    },
+    {
+      "source": "SeeDAO宣传公会",
+      "target": "舟舟",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500441"
+      ]
+    },
+    {
+      "source": "Rebecca",
+      "target": "SeeDAO宣传公会",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500441"
+      ]
+    },
+    {
+      "source": "SeeDAO宣传公会",
+      "target": "Shawn",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500441"
+      ]
+    },
+    {
+      "source": "SeeDAO宣传公会",
+      "target": "咖啡",
+      "density": 1.5,
+      "type": "weak",
+      "events": [
+        "evt_1778682500441"
+      ]
+    },
+    {
+      "source": "DDD",
+      "target": "舟舟",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500441"
+      ]
+    },
+    {
+      "source": "DDD",
+      "target": "Rebecca",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500441"
+      ]
+    },
+    {
+      "source": "DDD",
+      "target": "Shawn",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500441"
+      ]
+    },
+    {
+      "source": "DDD",
+      "target": "咖啡",
+      "density": 1.2,
+      "type": "weak",
+      "events": [
+        "evt_1778682500441"
+      ]
+    },
+    {
+      "source": "Rebecca",
+      "target": "舟舟",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500441"
+      ]
+    },
+    {
+      "source": "Shawn",
+      "target": "舟舟",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500441"
+      ]
+    },
+    {
+      "source": "咖啡",
+      "target": "舟舟",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500441"
+      ]
+    },
+    {
+      "source": "Rebecca",
+      "target": "Shawn",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500441"
+      ]
+    },
+    {
+      "source": "Shawn",
+      "target": "咖啡",
+      "density": 1.0,
+      "type": "weak",
+      "events": [
+        "evt_1778682500441"
       ]
     }
   ],
   "stats": {
-    "node_count": 12,
-    "edge_count": 18
+    "node_count": 64,
+    "edge_count": 353
   }
 }

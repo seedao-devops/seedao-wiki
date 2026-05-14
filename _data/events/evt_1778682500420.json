@@ -1,0 +1,18 @@
+{
+  "type": "activity",
+  "initiator": "节点共识大会",
+  "co_creators": [
+    "白鱼",
+    "唐晗"
+  ],
+  "participants": [
+    "SeeDAO全体成员"
+  ],
+  "metadata": {
+    "title": "SeeDAO节点共识大会（中元节）",
+    "description": "2025年中元节节点大会，讨论投资人回购方案、社区积分清算等国库处置问题，标志着SeeDAO 1.0终结"
+  },
+  "artifacts": [],
+  "id": "evt_1778682500420",
+  "timestamp": 1778682500
+}

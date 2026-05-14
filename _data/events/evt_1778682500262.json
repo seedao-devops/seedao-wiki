@@ -1,0 +1,19 @@
+{
+  "type": "activity",
+  "initiator": "Owen",
+  "co_creators": [],
+  "participants": [],
+  "metadata": {
+    "title": "SeeTalk社区播客",
+    "description": "社区成员共创的播客节目，26集，350个订阅，1800次播放量。2024年计划与706青年空间、NCC数字游民社区合作开展播客共学营"
+  },
+  "artifacts": [
+    {
+      "type": "link",
+      "url": "https://www.xiaoyuzhoufm.com",
+      "description": "小宇宙平台播客"
+    }
+  ],
+  "id": "evt_1778682500262",
+  "timestamp": 1778682500
+}

@@ -1,0 +1,19 @@
+{
+  "type": "activity",
+  "initiator": "白鱼",
+  "co_creators": [],
+  "participants": [],
+  "metadata": {
+    "title": "第九届节点共识大会",
+    "description": "2024年11月30日，白鱼分享'DAO低潮？还是新阶段？有大有小'主题演讲，反思DAO现状、以太坊治理困境、行业趋势"
+  },
+  "artifacts": [
+    {
+      "type": "link",
+      "url": "https://mp.weixin.qq.com/s/uWuLlByXFyQ7kcnKGpHk6w",
+      "description": "演讲整理文章"
+    }
+  ],
+  "id": "evt_1778682500278",
+  "timestamp": 1778682500
+}

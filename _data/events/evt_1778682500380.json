@@ -1,0 +1,24 @@
+{
+  "type": "activity",
+  "initiator": "SeeDAO",
+  "co_creators": [
+    "定慧"
+  ],
+  "participants": [
+    "白鱼",
+    "唐晗"
+  ],
+  "metadata": {
+    "title": "SeeDAO三次解散转型",
+    "description": "SeeDAO经历三次解散，从CryptoC公司转型为DAO组织的过程"
+  },
+  "artifacts": [
+    {
+      "type": "link",
+      "url": "https://mp.weixin.qq.com/s/93vjnwu33hRdlZvXh__MRA",
+      "description": "定慧整理文章"
+    }
+  ],
+  "id": "evt_1778682500380",
+  "timestamp": 1778682500
+}

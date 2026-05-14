@@ -1,0 +1,19 @@
+{
+  "type": "activity",
+  "initiator": "Scott",
+  "co_creators": [],
+  "participants": [],
+  "metadata": {
+    "title": "SeeDAO Seed NFT二创活动",
+    "description": "为期一个月，举办五节课程，为社区提供NFT二创相关课程内容"
+  },
+  "artifacts": [
+    {
+      "type": "link",
+      "url": "https://nextme.one/seednft",
+      "description": "创作展示"
+    }
+  ],
+  "id": "evt_1778682500223",
+  "timestamp": 1778682500
+}

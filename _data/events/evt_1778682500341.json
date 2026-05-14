@@ -1,0 +1,24 @@
+{
+  "type": "activity",
+  "initiator": "白鱼",
+  "co_creators": [],
+  "participants": [
+    "唐晗",
+    "Rebecca",
+    "昌用老师",
+    "Handuo"
+  ],
+  "metadata": {
+    "title": "白读书店开业",
+    "description": "成都白读书店十月一号试营业，后成为SeeDAO社区线下据点"
+  },
+  "artifacts": [
+    {
+      "type": "link",
+      "url": "https://mp.weixin.qq.com/s/agIDOxi8BLdzlTyKxM_t-A",
+      "description": "Uncommons专访"
+    }
+  ],
+  "id": "evt_1778682500341",
+  "timestamp": 1778682500
+}

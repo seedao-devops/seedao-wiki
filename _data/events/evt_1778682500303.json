@@ -1,0 +1,35 @@
+{
+  "type": "activity",
+  "initiator": "SeeDAO",
+  "co_creators": [
+    "Queeny",
+    "文倩",
+    "T1NG",
+    "MC"
+  ],
+  "participants": [
+    "浩哥",
+    "喵本",
+    "康师傅",
+    "吴昊",
+    "Owen",
+    "Henry",
+    "古忆",
+    "定慧",
+    "Forever",
+    "Ashely"
+  ],
+  "metadata": {
+    "title": "SeeDAO'看见你'奇人奇事年终盘点（活动记录篇）",
+    "description": "冯光能撰写活动回顾，描述活动从提案、筹备到举办的全过程"
+  },
+  "artifacts": [
+    {
+      "type": "link",
+      "url": "https://mp.weixin.qq.com/s/At3K-cq2HLXoRNQ_hQ1pJA",
+      "description": "文倩整理的晚会回顾"
+    }
+  ],
+  "id": "evt_1778682500303",
+  "timestamp": 1778682500
+}

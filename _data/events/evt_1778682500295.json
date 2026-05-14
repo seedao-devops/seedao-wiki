@@ -1,0 +1,19 @@
+{
+  "type": "activity",
+  "initiator": "白鱼",
+  "co_creators": [],
+  "participants": [],
+  "metadata": {
+    "title": "在数字城邦重返公共生活演讲",
+    "description": "白鱼分享《堆栈》模型，探讨Web3时代的地理新格局及数字城邦公共生活的可能性"
+  },
+  "artifacts": [
+    {
+      "type": "link",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1778330942&ver=6710&signature=UITu7CAeR4qI7qAOAfdOobqQspWUk88A8WKpuQ76KdEfkWCapHC9jPwrho3mOQvnG4TGBI-ipXmJKFEgfHZ3GUFvIcMrSDreOzH8fNvTunzvNHSo1m5vTvlSZsz01a6I&new=1",
+      "description": "演讲整理"
+    }
+  ],
+  "id": "evt_1778682500295",
+  "timestamp": 1778682500
+}

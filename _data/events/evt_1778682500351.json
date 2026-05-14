@@ -1,0 +1,22 @@
+{
+  "type": "activity",
+  "initiator": "白鱼",
+  "co_creators": [],
+  "participants": [
+    "唐晗",
+    "Frozen"
+  ],
+  "metadata": {
+    "title": "SeeDAO白皮书发布",
+    "description": "经过三个月讨论、写作、修改，经由节点投票生效，SeeDAO白皮书《数字城邦》正式发布"
+  },
+  "artifacts": [
+    {
+      "type": "link",
+      "url": "https://mp.weixin.qq.com/s/GVEmjH0jnBNnUhCTS1iZZA",
+      "description": "白皮书全文"
+    }
+  ],
+  "id": "evt_1778682500351",
+  "timestamp": 1778682500
+}

@@ -7,10 +7,16 @@
   "works_input": [],
   "event_refs": [
     {
-      "event_id": "evt_1778723174091",
+      "event_id": "evt_1778682500243",
+      "role": "participant",
+      "type": "activity",
+      "timestamp": 1778682500
+    },
+    {
+      "event_id": "evt_1778682500303",
       "role": "co_creator",
       "type": "activity",
-      "timestamp": 1778723174
+      "timestamp": 1778682500
     }
   ],
   "external_inputs": []

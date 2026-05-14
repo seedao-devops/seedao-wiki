@@ -7,10 +7,76 @@
   "works_input": [],
   "event_refs": [
     {
-      "event_id": "evt_1778404160162",
+      "event_id": "evt_1778682500270",
+      "role": "initiator",
+      "type": "project",
+      "timestamp": 1778682500
+    },
+    {
+      "event_id": "evt_1778682500278",
+      "role": "initiator",
+      "type": "activity",
+      "timestamp": 1778682500
+    },
+    {
+      "event_id": "evt_1778682500286",
+      "role": "initiator",
+      "type": "activity",
+      "timestamp": 1778682500
+    },
+    {
+      "event_id": "evt_1778682500295",
+      "role": "initiator",
+      "type": "activity",
+      "timestamp": 1778682500
+    },
+    {
+      "event_id": "evt_1778682500341",
+      "role": "initiator",
+      "type": "activity",
+      "timestamp": 1778682500
+    },
+    {
+      "event_id": "evt_1778682500351",
+      "role": "initiator",
+      "type": "activity",
+      "timestamp": 1778682500
+    },
+    {
+      "event_id": "evt_1778682500361",
       "role": "co_creator",
       "type": "activity",
-      "timestamp": 1778404160
+      "timestamp": 1778682500
+    },
+    {
+      "event_id": "evt_1778682500371",
+      "role": "initiator",
+      "type": "activity",
+      "timestamp": 1778682500
+    },
+    {
+      "event_id": "evt_1778682500380",
+      "role": "participant",
+      "type": "activity",
+      "timestamp": 1778682500
+    },
+    {
+      "event_id": "evt_1778682500411",
+      "role": "initiator",
+      "type": "activity",
+      "timestamp": 1778682500
+    },
+    {
+      "event_id": "evt_1778682500420",
+      "role": "co_creator",
+      "type": "activity",
+      "timestamp": 1778682500
+    },
+    {
+      "event_id": "evt_1778682500431",
+      "role": "co_creator",
+      "type": "activity",
+      "timestamp": 1778682500
     }
   ],
   "external_inputs": []

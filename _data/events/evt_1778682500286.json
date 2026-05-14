@@ -1,0 +1,23 @@
+{
+  "type": "activity",
+  "initiator": "白鱼",
+  "co_creators": [
+    "白衣",
+    "yu",
+    "小胡"
+  ],
+  "participants": [],
+  "metadata": {
+    "title": "捕鲸船专访：SeeDAO数字城邦",
+    "description": "白鱼接受捕鲸船社区专访，阐述SeeDAO三层治理机制、数字城邦愿景、孵化器模式等"
+  },
+  "artifacts": [
+    {
+      "type": "link",
+      "url": "https://mp.weixin.qq.com/s/s-EERAWADVZWl1viy7q5Og",
+      "description": "专访文章"
+    }
+  ],
+  "id": "evt_1778682500286",
+  "timestamp": 1778682500
+}
