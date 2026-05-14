@@ -36,3 +36,18 @@ tags: []
 ## [2026-05-13] refresh | Wiki updated
 - Events: 3, People: 11, Edges: 17
 - State: co_presence=1.8182, emergence=2.0, xiaoyao=0.4091
+
+## [2026-05-14] ingest | Event evt_1778723174091
+- Type: activity
+- Initiator: 唐晗
+- Co-creators: T1NG
+- Participants: 
+- ⚠️ 完整性警告:
+  - 成员 唐晗 缺少姓名 (profile.name)，建议补充
+  - 成员 唐晗 缺少简介 (profile.bio)，建议补充
+  - 成员 唐晗 未记录技能 (skills)，建议补充
+  - 成员 唐晗 未记录兴趣 (interests)，建议补充
+  - 成员 T1NG 缺少姓名 (profile.name)，建议补充
+  - 成员 T1NG 缺少简介 (profile.bio)，建议补充
+  - 成员 T1NG 未记录技能 (skills)，建议补充
+  - 成员 T1NG 未记录兴趣 (interests)，建议补充
