@@ -15,7 +15,13 @@
         "proposal_id": 466,
         "link": "https://app.seedao.xyz/proposal/thread/466"
     },
-    "artifacts": [],
+    "artifacts": [
+        {
+            "type": "link",
+            "url": "https://app.seedao.xyz/proposal/thread/466",
+            "description": "积分回购 & 投资款返还提案[最终投票] — 提案原文及投票详情"
+        }
+    ],
     "id": "evt_1761975907000",
     "timestamp": 1761975907
 }
