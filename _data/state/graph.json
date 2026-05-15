@@ -187,6 +187,9 @@
       "id": "节点共识大会"
     },
     {
+      "id": "蓝鲸财经"
+    },
+    {
       "id": "行天春彦"
     },
     {
@@ -3478,10 +3481,19 @@
       "events": [
         "evt_1778682500441"
       ]
+    },
+    {
+      "source": "白鱼",
+      "target": "蓝鲸财经",
+      "density": 3.0,
+      "type": "normal",
+      "events": [
+        "evt_1778846556684"
+      ]
     }
   ],
   "stats": {
-    "node_count": 64,
-    "edge_count": 353
+    "node_count": 65,
+    "edge_count": 354
   }
 }

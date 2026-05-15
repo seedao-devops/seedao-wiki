@@ -710,3 +710,7 @@ tags: []
   - 成员 蓝鲸财经 缺少简介 (profile.bio)，建议补充
   - 成员 蓝鲸财经 未记录技能 (skills)，建议补充
   - 成员 蓝鲸财经 未记录兴趣 (interests)，建议补充
+
+## [2026-05-15] refresh | Wiki updated
+- Events: 29, People: 67, Edges: 354
+- State: co_presence=5.3134, emergence=0.6207, xiaoyao=0.4239

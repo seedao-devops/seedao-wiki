@@ -7,8 +7,8 @@ tags: []
 
 # 关系图谱
 
-- 节点数: 64
-- 边数: 353
+- 节点数: 65
+- 边数: 354
 
 ## 关系列表
 
@@ -45,6 +45,7 @@ tags: []
 | [[people/白鱼|白鱼]] | [[people/节点共识大会|节点共识大会]] | 3.0 | 中 | [[events/evt_1778682500420|SeeDAO节点共识大会（中元节）]] |
 | [[people/唐晗|唐晗]] | [[people/节点共识大会|节点共识大会]] | 3.0 | 中 | [[events/evt_1778682500420|SeeDAO节点共识大会（中元节）]] |
 | [[people/DDD|DDD]] | [[people/SeeDAO宣传公会|SeeDAO宣传公会]] | 3.0 | 中 | [[events/evt_1778682500441|SeeDAO人物志系列采访]] |
+| [[people/白鱼|白鱼]] | [[people/蓝鲸财经|蓝鲸财经]] | 3.0 | 中 | [[events/evt_1778846556684|专访SeeDAO创始人白鱼：DAO里面全是弯路，关关难过关关过]] |
 | [[people/Queeny|Queeny]] | [[people/浩哥|浩哥]] | 2.7 | 弱 | [[events/evt_1778682500243|SeeDAO'看见你'奇人奇事年终盘点]], [[events/evt_1778682500303|SeeDAO'看见你'奇人奇事年终盘点（活动记录篇）]] |
 | [[people/Queeny|Queeny]] | [[people/喵本|喵本]] | 2.7 | 弱 | [[events/evt_1778682500243|SeeDAO'看见你'奇人奇事年终盘点]], [[events/evt_1778682500303|SeeDAO'看见你'奇人奇事年终盘点（活动记录篇）]] |
 | [[people/Queeny|Queeny]] | [[people/康师傅|康师傅]] | 2.7 | 弱 | [[events/evt_1778682500243|SeeDAO'看见你'奇人奇事年终盘点]], [[events/evt_1778682500303|SeeDAO'看见你'奇人奇事年终盘点（活动记录篇）]] |

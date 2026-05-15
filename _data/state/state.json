@@ -1,10 +1,10 @@
 {
-  "co_presence": 5.3788,
-  "emergence": 0.6071,
-  "xiaoyao": 0.4258,
-  "people_count": 66,
-  "event_count": 28,
-  "edge_count": 353,
+  "co_presence": 5.3134,
+  "emergence": 0.6207,
+  "xiaoyao": 0.4239,
+  "people_count": 67,
+  "event_count": 29,
+  "edge_count": 354,
   "individual_xiaoyao": {
     "100多位参会者": {
       "ir": 0.0,
@@ -355,10 +355,10 @@
       "score": 0.3
     },
     "白鱼": {
-      "ir": 0.6667,
-      "re": 1.1887,
+      "ir": 0.6923,
+      "re": 1.1401,
       "nr": 1.0,
-      "score": 0.9233
+      "score": 0.919
     },
     "稼骐": {
       "ir": 0.0,
@@ -389,6 +389,12 @@
       "re": 0.0,
       "nr": 1.0,
       "score": 0.7
+    },
+    "蓝鲸财经": {
+      "ir": 0.0,
+      "re": 0.0,
+      "nr": 1.0,
+      "score": 0.3
     },
     "行天春彦": {
       "ir": 0.0,
