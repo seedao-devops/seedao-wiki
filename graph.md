@@ -14,19 +14,19 @@ tags: []
 
 | 成员 A | 成员 B | 密度 | 类型 | 共同 Event |
 |--------|--------|------|------|-----------|
-| [[people/唐晗|唐晗]] | [[people/白鱼|白鱼]] | 18.0 | 强 | [[events/evt_1778682500270|白读书屋]], [[events/evt_1778682500341|白读书店开业]], [[events/evt_1778682500351|SeeDAO白皮书发布]], [[events/evt_1778682500361|SeeDAO两周年生态发布会：Our Polis 我们的城邦]], [[events/evt_1778682500380|SeeDAO三次解散转型]], [[events/evt_1778682500411|SIP-358：积分回购与投资款返还提案]], [[events/evt_1778682500420|SeeDAO节点共识大会（中元节）]], [[events/evt_1778682500431|Web3她声音第四期：对话唐晗]] |
+| [[people/唐晗|唐晗]] | [[people/白鱼|白鱼]] | 21.0 | 强 | [[events/evt_1761975907000|积分回购 & 投资款返还提案[最终投票]]], [[events/evt_1778682500270|白读书屋]], [[events/evt_1778682500341|白读书店开业]], [[events/evt_1778682500351|SeeDAO白皮书发布]], [[events/evt_1778682500361|SeeDAO两周年生态发布会：Our Polis 我们的城邦]], [[events/evt_1778682500380|SeeDAO三次解散转型]], [[events/evt_1778682500411|SIP-358：积分回购与投资款返还提案]], [[events/evt_1778682500420|SeeDAO节点共识大会（中元节）]], [[events/evt_1778682500431|Web3她声音第四期：对话唐晗]] |
+| [[people/Frozen|Frozen]] | [[people/白鱼|白鱼]] | 7.0 | 中 | [[events/evt_1761975907000|积分回购 & 投资款返还提案[最终投票]]], [[events/evt_1778682500351|SeeDAO白皮书发布]], [[events/evt_1778682500361|SeeDAO两周年生态发布会：Our Polis 我们的城邦]] |
 | [[people/Rebecca|Rebecca]] | [[people/咖啡|咖啡]] | 6.5 | 中 | [[events/evt_1778682500314|Web3大学]], [[events/evt_1778682500332|SeeDAO协调委员会]], [[events/evt_1778682500441|SeeDAO人物志系列采访]] |
+| [[people/Frozen|Frozen]] | [[people/唐晗|唐晗]] | 6.0 | 中 | [[events/evt_1761975907000|积分回购 & 投资款返还提案[最终投票]]], [[events/evt_1778682500351|SeeDAO白皮书发布]], [[events/evt_1778682500361|SeeDAO两周年生态发布会：Our Polis 我们的城邦]] |
 | [[people/Queeny|Queeny]] | [[people/文倩|文倩]] | 5.5 | 中 | [[events/evt_1778682500243|SeeDAO'看见你'奇人奇事年终盘点]], [[events/evt_1778682500303|SeeDAO'看见你'奇人奇事年终盘点（活动记录篇）]] |
 | [[people/SeeDAO|SeeDAO]] | [[people/定慧|定慧]] | 4.5 | 中 | [[events/evt_1778682500303|SeeDAO'看见你'奇人奇事年终盘点（活动记录篇）]], [[events/evt_1778682500380|SeeDAO三次解散转型]] |
 | [[people/SeeDAO|SeeDAO]] | [[people/唐晗|唐晗]] | 4.5 | 中 | [[events/evt_1778682500361|SeeDAO两周年生态发布会：Our Polis 我们的城邦]], [[events/evt_1778682500380|SeeDAO三次解散转型]] |
 | [[people/SeeDAO|SeeDAO]] | [[people/白鱼|白鱼]] | 4.5 | 中 | [[events/evt_1778682500361|SeeDAO两周年生态发布会：Our Polis 我们的城邦]], [[events/evt_1778682500380|SeeDAO三次解散转型]] |
 | [[people/Queeny|Queeny]] | [[people/T1NG|T1NG]] | 4.0 | 中 | [[events/evt_1778682500243|SeeDAO'看见你'奇人奇事年终盘点]], [[events/evt_1778682500303|SeeDAO'看见你'奇人奇事年终盘点（活动记录篇）]] |
 | [[people/MC|MC]] | [[people/Queeny|Queeny]] | 4.0 | 中 | [[events/evt_1778682500243|SeeDAO'看见你'奇人奇事年终盘点]], [[events/evt_1778682500303|SeeDAO'看见你'奇人奇事年终盘点（活动记录篇）]] |
-| [[people/Frozen|Frozen]] | [[people/白鱼|白鱼]] | 4.0 | 中 | [[events/evt_1778682500351|SeeDAO白皮书发布]], [[events/evt_1778682500361|SeeDAO两周年生态发布会：Our Polis 我们的城邦]] |
 | [[people/T1NG|T1NG]] | [[people/文倩|文倩]] | 3.7 | 中 | [[events/evt_1778682500243|SeeDAO'看见你'奇人奇事年终盘点]], [[events/evt_1778682500303|SeeDAO'看见你'奇人奇事年终盘点（活动记录篇）]] |
 | [[people/MC|MC]] | [[people/文倩|文倩]] | 3.7 | 中 | [[events/evt_1778682500243|SeeDAO'看见你'奇人奇事年终盘点]], [[events/evt_1778682500303|SeeDAO'看见你'奇人奇事年终盘点（活动记录篇）]] |
 | [[people/MC|MC]] | [[people/T1NG|T1NG]] | 3.5 | 中 | [[events/evt_1778682500243|SeeDAO'看见你'奇人奇事年终盘点]], [[events/evt_1778682500303|SeeDAO'看见你'奇人奇事年终盘点（活动记录篇）]] |
-| [[people/Frozen|Frozen]] | [[people/唐晗|唐晗]] | 3.5 | 中 | [[events/evt_1778682500351|SeeDAO白皮书发布]], [[events/evt_1778682500361|SeeDAO两周年生态发布会：Our Polis 我们的城邦]] |
 | [[people/QuincyStarnes|QuincyStarnes]] | [[people/温菲尔德王|温菲尔德王]] | 3.0 | 中 | [[events/evt_1778682500206|风滚草：线上生态学涌现读书会]] |
 | [[people/YCSSR|YCSSR]] | [[people/温菲尔德王|温菲尔德王]] | 3.0 | 中 | [[events/evt_1778682500206|风滚草：线上生态学涌现读书会]] |
 | [[people/QuincyStarnes|QuincyStarnes]] | [[people/文倩|文倩]] | 3.0 | 中 | [[events/evt_1778682500213|Matters七日书：我的成长轨迹]] |

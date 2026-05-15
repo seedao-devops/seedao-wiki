@@ -1,0 +1,21 @@
+{
+    "type": "proposal",
+    "initiator": "白鱼",
+    "co_creators": [
+        "唐晗",
+        "Frozen"
+    ],
+    "participants": [],
+    "metadata": {
+        "title": "积分回购 & 投资款返还提案[最终投票]",
+        "description": "SIP-358 提案: 积分回购 & 投资款返还 - vote_passed",
+        "sip": 358,
+        "state": "vote_passed",
+        "create_ts": 1761975907,
+        "proposal_id": 466,
+        "link": "https://app.seedao.xyz/proposal/thread/466"
+    },
+    "artifacts": [],
+    "id": "evt_1761975907000",
+    "timestamp": 1761975907
+}

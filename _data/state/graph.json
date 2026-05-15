@@ -195,6 +195,45 @@
   ],
   "edges": [
     {
+      "source": "唐晗",
+      "target": "白鱼",
+      "density": 21.0,
+      "type": "strong",
+      "events": [
+        "evt_1761975907000",
+        "evt_1778682500270",
+        "evt_1778682500341",
+        "evt_1778682500351",
+        "evt_1778682500361",
+        "evt_1778682500380",
+        "evt_1778682500411",
+        "evt_1778682500420",
+        "evt_1778682500431"
+      ]
+    },
+    {
+      "source": "Frozen",
+      "target": "白鱼",
+      "density": 7.0,
+      "type": "normal",
+      "events": [
+        "evt_1761975907000",
+        "evt_1778682500351",
+        "evt_1778682500361"
+      ]
+    },
+    {
+      "source": "Frozen",
+      "target": "唐晗",
+      "density": 6.0,
+      "type": "normal",
+      "events": [
+        "evt_1761975907000",
+        "evt_1778682500351",
+        "evt_1778682500361"
+      ]
+    },
+    {
       "source": "QuincyStarnes",
       "target": "温菲尔德王",
       "density": 3.0,
@@ -2671,22 +2710,6 @@
       ]
     },
     {
-      "source": "唐晗",
-      "target": "白鱼",
-      "density": 18.0,
-      "type": "strong",
-      "events": [
-        "evt_1778682500270",
-        "evt_1778682500341",
-        "evt_1778682500351",
-        "evt_1778682500361",
-        "evt_1778682500380",
-        "evt_1778682500411",
-        "evt_1778682500420",
-        "evt_1778682500431"
-      ]
-    },
-    {
       "source": "白衣",
       "target": "白鱼",
       "density": 3.0,
@@ -2993,26 +3016,6 @@
       "type": "weak",
       "events": [
         "evt_1778682500341"
-      ]
-    },
-    {
-      "source": "Frozen",
-      "target": "白鱼",
-      "density": 4.0,
-      "type": "normal",
-      "events": [
-        "evt_1778682500351",
-        "evt_1778682500361"
-      ]
-    },
-    {
-      "source": "Frozen",
-      "target": "唐晗",
-      "density": 3.5,
-      "type": "normal",
-      "events": [
-        "evt_1778682500351",
-        "evt_1778682500361"
       ]
     },
     {
