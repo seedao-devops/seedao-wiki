@@ -691,3 +691,7 @@ tags: []
 ## [2026-05-14] refresh | Wiki updated
 - Events: 27, People: 66, Edges: 353
 - State: co_presence=5.3788, emergence=0.6296, xiaoyao=0.4258
+
+## [2026-05-15] refresh | Wiki updated
+- Events: 27, People: 66, Edges: 353
+- State: co_presence=5.3788, emergence=0.6296, xiaoyao=0.4258
