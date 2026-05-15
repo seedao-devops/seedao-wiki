@@ -1,0 +1,33 @@
+{
+  "type": "activity",
+  "initiator": "白鱼",
+  "co_creators": [
+    "蓝鲸财经"
+  ],
+  "participants": [],
+  "metadata": {
+    "title": "专访SeeDAO创始人白鱼：DAO里面全是弯路，关关难过关关过",
+    "description": "白鱼接受蓝鲸财经专访，分享SeeDAO成立一年来的四次低谷、三种治理模式的转换历程，以及数字城邦的愿景。",
+    "source_url": "https://www.lanjinger.com/d/198415",
+    "tags": [
+      "DAO治理",
+      "白鱼",
+      "数字城邦",
+      "专访"
+    ]
+  },
+  "artifacts": [
+    {
+      "type": "article",
+      "title": "专访SeeDAO创始人白鱼：DAO里面全是弯路",
+      "url": "https://www.lanjinger.com/d/198415",
+      "format": "web_article"
+    }
+  ],
+  "external": {
+    "platform": "lanjinger",
+    "original_url": "https://www.lanjinger.com/d/198415"
+  },
+  "id": "evt_1778846556684",
+  "timestamp": 1778846556
+}

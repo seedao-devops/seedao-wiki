@@ -699,3 +699,14 @@ tags: []
 ## [2026-05-15] refresh | Wiki updated
 - Events: 28, People: 66, Edges: 353
 - State: co_presence=5.3788, emergence=0.6071, xiaoyao=0.4258
+
+## [2026-05-15] ingest | Event evt_1778846556684
+- Type: activity
+- Initiator: 白鱼
+- Co-creators: 蓝鲸财经
+- Participants: 
+- ⚠️ 完整性警告:
+  - 成员 蓝鲸财经 缺少姓名 (profile.name)，建议补充
+  - 成员 蓝鲸财经 缺少简介 (profile.bio)，建议补充
+  - 成员 蓝鲸财经 未记录技能 (skills)，建议补充
+  - 成员 蓝鲸财经 未记录兴趣 (interests)，建议补充

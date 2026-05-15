@@ -1,0 +1,17 @@
+{
+  "id": "蓝鲸财经",
+  "profile": {},
+  "skills": [],
+  "interests": [],
+  "links": {},
+  "works_input": [],
+  "event_refs": [
+    {
+      "event_id": "evt_1778846556684",
+      "role": "co_creator",
+      "type": "activity",
+      "timestamp": 1778846556
+    }
+  ],
+  "external_inputs": []
+}
